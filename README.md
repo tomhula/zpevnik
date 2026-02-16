@@ -1,6 +1,6 @@
 # Zpěvník
 
-Toto je můj notový zpěvník nějakých mnou oblíbených základních táborových písniček. Vzhledem k mému pěveckému netalentu mi to velmi pomáhá v učení a celkově je to dobrý záznam toho, jak ta písnička jeújak ji hraju. Noty vznikly bu'd přímo mým přepisem nějaké nahrávky typicky na YouTube, nebo jsem je našel někde na internetu a případně doupravil.
+Toto je můj notový zpěvník nějakých mnou oblíbených základních táborových písniček. Vzhledem k mému pěveckému netalentu mi to velmi pomáhá v učení a celkově je to dobrý záznam toho, jak ta písnička je/jak ji hraju. Noty vznikly buď přímo mým přepisem nějaké nahrávky typicky na YouTube, nebo jsem je našel někde na internetu a případně doupravil.
 
 Tento zpěvník je dostupný na adrese https://zpevnik.tomashula.cz
 
